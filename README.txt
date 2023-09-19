@@ -1,1 +1,1 @@
-E:\Final Year Project Resources\project Bakup\KpkTourGuideApp\app\build\outputs\apk\debug
+tourism Application where user can find tourist places with google map
